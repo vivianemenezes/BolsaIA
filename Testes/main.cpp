@@ -38,6 +38,7 @@ estado * find(char nome){
 //    }
 //}
 
+/*Leitura de arquivo e armazenamento em estado. */
 void criar(){
     ifstream fin("../rodrigo.txt");
 
